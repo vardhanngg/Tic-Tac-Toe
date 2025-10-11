@@ -30,4 +30,16 @@ Run the game:
 
 java Main
 
-Follow the on-screen instructions to play.
+Sample Output:
+
+Welcome! You are x, I am b
+
+Choose 1 to start first or choose any other number: 0
+
+0 0 0 
+
+b 0 0 
+
+0 0 0 
+
+Choose eg:(0,0):
